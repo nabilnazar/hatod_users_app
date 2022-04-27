@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "921094070029",
+    "project_id": "hatod-app",
+    "storage_bucket": "hatod-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921094070029:android:89070a1cc698c478a81a44",
+        "android_client_info": {
+          "package_name": "com.example.hatod_driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921094070029-vlmc0dbe752uh1tceu4576i6vr18r2db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDT0EiCkAWybF86ibWuZxQEwZsM2f3Wkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921094070029-vlmc0dbe752uh1tceu4576i6vr18r2db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921094070029:android:b34c8c938f3516efa81a44",
+        "android_client_info": {
+          "package_name": "com.example.hatod_users_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921094070029-vlmc0dbe752uh1tceu4576i6vr18r2db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDT0EiCkAWybF86ibWuZxQEwZsM2f3Wkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921094070029-vlmc0dbe752uh1tceu4576i6vr18r2db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
